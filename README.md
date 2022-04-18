@@ -48,9 +48,9 @@ This Airbnb dataset can be found at Inside Airbnb. Each observation represents a
 ### **TOOLS**
 
 The following tools were used in this project:
-1.	Python, Pandas, NLTK, Spacy to: 
+1.	Python, Pandas, NLTK, SpaCy to: 
 •	Clean & Explore
-•	Feature Engineering 
+•	Dimension Reduction 
 
 2.	SKLearn & NLTK tools to implement various topic modeling and sentiment analysis
 
