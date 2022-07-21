@@ -11,7 +11,7 @@ The goal of this project is to use Natural Language Processing (NLP) tools such 
 
 
 
-### Design
+### Design:
 
 
 The project was designed to show hosts the needs of guests in northern and southern California. Using data from InsideAirbnb.com, guests reviews left in San Francisco and Los Angeles was used to perform the analysis. The data didn’t contain ratings, therefore, sentiment analysis was initially done to distinguish the positive and negative sentiments. Then, topic modeling was applied by region to get the full understanding of the complaints as well as the things guests enjoyed. 
