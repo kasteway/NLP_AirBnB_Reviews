@@ -22,7 +22,7 @@ The project was designed to show hosts the needs of guests in northern and south
 
 
 
-### Data
+### Data:
 
 
 This Airbnb dataset can be found at Inside Airbnb. Each observation represents a unique customer and the review they had on a particular stay. There was over 1.5million reviews. To access and view a detailed description of the dataset, click here. 
