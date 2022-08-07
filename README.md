@@ -32,7 +32,7 @@ This Airbnb dataset can be found at Inside Airbnb. Each observation represents a
 ---
 
 
-### Algorithm & Tools
+### Algorithm & Tools:
 
 
 •	CountVectorizer and TfidfVectorizer for tokenizing
