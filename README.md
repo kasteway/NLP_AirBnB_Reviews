@@ -45,7 +45,7 @@ This Airbnb dataset can be found at Inside Airbnb. Each observation represents a
 
 
 
-### **TOOLS**
+### TOOLS:
 
 The following tools were used in this project:
 1.	Python, Pandas, NLTK, SpaCy to: 
