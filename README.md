@@ -52,7 +52,7 @@ The following tools were used in this project:
 -	Clean & Explore.
 -	Dimension Reduction.
 
-2.	SKLearn & NLTK tools to implement various topic modeling and sentiment analysis
+2.	SKLearn & NLTK tools to implement various topic modeling and sentiment analysis.
 
 3.	Matplotlib and Seabn to visualize the data and model outputs.
 
