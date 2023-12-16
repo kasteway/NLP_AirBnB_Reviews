@@ -54,7 +54,7 @@ The following tools were used in this project:
 
 2.	SKLearn & NLTK tools to implement various topic modeling and sentiment analysis.
 
-3.	Matplotlib and Seabn to visualize the data and model outputs...
+3.	Matplotlib and Seabn to visualize the data and model outputs.
 
 ---
 
